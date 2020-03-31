@@ -7,6 +7,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'activerecord', '~> 5.0', '>= 5.0.0.1'
 
 group :test do
   gem 'rspec'
